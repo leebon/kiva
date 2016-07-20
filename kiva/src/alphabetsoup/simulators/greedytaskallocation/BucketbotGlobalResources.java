@@ -6,7 +6,7 @@ package alphabetsoup.simulators.greedytaskallocation;
 import java.util.*;
 
 import org.lwjgl.opengl.GL11;
-import org.lwjgl.opengl.glu.Disk;
+import org.lwjgl.util.glu.Disk;
 import alphabetsoup.framework.*;
 //import alphabetsoup.simulators.graphexample.SimulationWorldGraphExample;
 import alphabetsoup.userinterface.Renderable;

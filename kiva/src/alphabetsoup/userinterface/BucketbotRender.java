@@ -7,7 +7,7 @@ import java.text.DecimalFormat;
 import java.util.*;
 
 import org.lwjgl.opengl.GL11;
-import org.lwjgl.opengl.glu.Disk;
+import org.lwjgl.util.glu.Disk;
 
 import alphabetsoup.base.BucketbotBase;
 import alphabetsoup.framework.*;

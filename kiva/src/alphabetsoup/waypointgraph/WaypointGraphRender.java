@@ -6,7 +6,7 @@ package alphabetsoup.waypointgraph;
 import alphabetsoup.framework.*;
 import alphabetsoup.userinterface.Renderable;
 import org.lwjgl.opengl.GL11;
-import org.lwjgl.opengl.glu.Disk;
+import org.lwjgl.util.glu.Disk;
 
 /**
  * WaypointGraphRender draws the Waypoint graph.

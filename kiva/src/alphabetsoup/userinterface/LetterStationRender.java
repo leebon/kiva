@@ -4,7 +4,7 @@
 package alphabetsoup.userinterface;
 
 import org.lwjgl.opengl.GL11;
-import org.lwjgl.opengl.glu.Disk;
+import org.lwjgl.util.glu.Disk;
 
 import alphabetsoup.base.LetterStationBase;
 import alphabetsoup.framework.Letter;
